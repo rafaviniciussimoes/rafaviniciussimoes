@@ -1,16 +1,25 @@
-## Hi there 👋
+## Olá, eu sou o Rafael Vinicius 👏
 
-<!--
-**rafaviniciussimoes/rafaviniciussimoes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudo desenvolvimento de software fullstack na escola Cubos Academy  
+Atualmente estou me preparando para uma transição de carreira 📖  
+Sempre procuro aprimorar o que aprendi 💻  
+Desafios me motivam e ajudam a me fortalecer 💪  
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+## Minhas skills
+
+<p align="center">
+  <img title="Javascript" alt="Javascript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="50" height="50" style="vertical-align:down; margin:10px"/>
+  <img title="Typescript" alt="Typescript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="50" height="50" style="vertical-align:down; margin:10px"/>
+  <img title="Node.js" alt="Node.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="50" height="50" style="vertical-align:down; margin:10px"/>
+  <img title="VSCode" alt="VSCode" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="50" height="50" style="vertical-align:down; margin:10px"/>
+  <img title="Git" alt="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="50" height="50" style="vertical-align:down; margin:10px"/>
+  <img title="Docker" alt="Docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="50" height="50" style="vertical-align:down; margin:10px"/>
+  <img title="PostgreSQL" alt="PostgreSQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="50" height="50" style="vertical-align:down; margin:10px"/>
+  <img title="Express" alt="Express" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" width="50" height="50" style="vertical-align:down; margin:10px"/>
+  
+
+  
+</p>
