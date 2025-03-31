@@ -16,7 +16,6 @@ Desafios me motivam e ajudam a me fortalecer 💪
   <img title="Node.js" alt="Node.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="50" height="50" style="vertical-align:down; margin:10px"/>
   <img title="VSCode" alt="VSCode" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="50" height="50" style="vertical-align:down; margin:10px"/>
   <img title="Git" alt="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="50" height="50" style="vertical-align:down; margin:10px"/>
-  <img title="Docker" alt="Docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="50" height="50" style="vertical-align:down; margin:10px"/>
   <img title="PostgreSQL" alt="PostgreSQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="50" height="50" style="vertical-align:down; margin:10px"/>
   <img title="Express" alt="Express" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" width="50" height="50" style="vertical-align:down; margin:10px"/>
   
